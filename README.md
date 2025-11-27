@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi there, I'm @osmvision! 👋
+<!-# Hi there, I'm @osmvision! 👋
 
 ### _Full Stack Engineer | IoT & Signal Processing | Social Impact_
 
