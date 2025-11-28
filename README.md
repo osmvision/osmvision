@@ -76,6 +76,22 @@ I am passionate about using technology to solve real-world problems, from logist
 
 ---
 
+### 🏆 **Profile Enhancements**
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepchandrajoshi" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=deepchandrajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepchandrajoshi&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepchandrajoshi&theme=react-dark" alt="activity graph" />
+</p>
+
+---
+
 ### 📫 Connect with me
 
 <p align="left">
