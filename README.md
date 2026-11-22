@@ -9,13 +9,15 @@
 <br/>
 
 <div align="center">
+
   Welcome to my digital garden! 🌿 I am a versatile software engineer with a strong foundation in **C#/.NET** and **React**, but my curiosity doesn't stop at the web. I bridge the gap between software and hardware, working on **Mobile Apps**, **Embedded Systems**, and **Signal Processing**.
 
-  *🔭 Currently working on: **[Boy App](https://github.com/osmvision/boy-app)** (Productivity Assistant)*
+  *🔭 Currently working on: **[freetime](https://github.com/osmvision/freetime)** (Rust + Tauri desktop app)*
   <br/>
   *🌱 Learning: **Advanced AI Agents & Cloud Architecture***
   <br/>
   *🌍 Mission: **Empowering education in Senegal through Tech***
+
 </div>
 
 <br/>
@@ -44,6 +46,14 @@
 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
@@ -53,11 +63,14 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🧠 [Boy App](https://github.com/osmvision/boy-app)** | A local-first productivity assistant powered by AI & Gemini. | `Electron` `React` `AI` |
+| **⏳ [freetime](https://github.com/osmvision/freetime)** | Got free time? A desktop app that ranks the best thing to do with it — a YouTube video that fits, a sport that suits the weather, a game, or something new — and learns from your 👍 / 👎. [Download](https://osmvision.github.io/freetime/) | `Rust` `Tauri` `TypeScript` |
+| **🧠 [Boy App](https://github.com/osmvision/Boy-app-flow)** | A local-first productivity assistant powered by AI & Gemini. | `Electron` `React` `AI` |
 | **👟 [Sneaker Vault](https://github.com/osmvision/sneaker_vault)** | A mobile application for sneaker enthusiasts and collectors. | `Dart` `Flutter` |
 | **🎵 [MyMusicManager](https://github.com/osmvision/MyMusicManager)** | A robust desktop/backend application for managing music libraries. | `C#` `.NET` |
 | **🚢 [ShipCom](https://github.com/osmvision/ShipCom-Project)** | A responsive logistics website for shipment tracking and booking. | `HTML` `CSS` `JS` |
 | **📅 [Modern Event](https://github.com/osmvision/Modern-Event-App-Project)** | Hybrid mobile app to discover and track cultural and sports events. | `TypeScript` |
+| **🏷️ [Vide Grenier](https://github.com/osmvision/vide-grenier)** | Web app for managing second-hand sale listings (items, prices, sellers). | `PHP` `MySQL` `Docker` |
+| **🔎 [RAG Reranking](https://github.com/osmvision/rag-reranking)** | Study of reranking models (cross-encoders, late interaction) for two-stage RAG pipelines. | `Python` `Jupyter` |
 
 <br/>
 
